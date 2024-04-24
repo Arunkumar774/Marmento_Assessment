@@ -145,7 +145,7 @@ body, * {
     margin-bottom: 1rem;
   }
   .product-image img {
-    height:70vh;
+    height:55vh;
     width: 70vw;
     object-fit:fill;
   }
