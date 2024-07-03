@@ -1,4 +1,4 @@
-# Coding Assessment L-2 Code Submission (MARMENTO)
+# Coding Assessment L-2 Code Submission (MARMETO)
 
 ## Getting Started
 Just open the folder in vscode or any code editor.
